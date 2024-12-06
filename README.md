@@ -34,8 +34,8 @@ Each question is answered using a specific visualization technique:
 
 ### 3. **Tools Used**
 - Data Cleaning: **Power Query** (Power BI) or **Data Prep** (Tableau).
-- Visualizations: **Power BI** or **Tableau** dashboards.
-- Formats: Tableau (.twbx) or Power BI (.pbix).
+- Visualizations: **Power BI** dashboards.
+- Formats: Power BI (.pbix).
 
 ---
 
@@ -61,12 +61,11 @@ Each question is answered using a specific visualization technique:
 
 ## **How to Get Started**
 
-1. **Install Software**: Download Tableau or Power BI (free trials available).
+1. **Install Software**: Download Power BI (free trials available).
 2. **Load Data**: Import the dataset provided into your selected tool.
 3. **Clean the Data**: Apply the cleaning steps (remove invalid quantities and prices).
 4. **Create Visuals**: Build dashboards as per the questions outlined.
 5. **Save the Project**:
-   - Tableau: Save as `.twbx`.
    - Power BI: Save as `.pbix`.
 
 ---
